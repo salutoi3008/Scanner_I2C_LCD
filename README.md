@@ -44,10 +44,6 @@ Scanner_I2C_LCD/
 - **SimulIDE** : simulation préalable
 - **Arduino IDE** : programmation de l'ATtiny84 en C
 
-## Ouvrir le projet KiCad
-
-Ouvrir le fichier `kicad/Scanner LCD.kicad_pro` avec KiCad. Le schéma (`.kicad_sch`) et le PCB (`.kicad_pcb`) se trouvent dans le même dossier.
-
 ## Auteur
 
-Enzo – BTS CIEL 2, [établissement] – [année scolaire]
+Enzo – BTS CIEL 2, Lycée Paul Langevin – 2026-2027
