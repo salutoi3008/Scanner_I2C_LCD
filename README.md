@@ -6,7 +6,7 @@ Scanner d'adresses I2C autonome, basé sur un microcontrôleur **ATtiny84** et u
 
 ## Objectif
 
-Proposer un circuit imprimé prêt à être fabriqué (fraisage numérique ou prestataire) :
+Proposer un circuit imprimé prêt à être fabriqué :
 
 - une seule face de pistes (et éventuellement quelques ponts)
 - format Eurocard sans connecteur de rack
