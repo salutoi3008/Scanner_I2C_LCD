@@ -1,0 +1,8 @@
+*-backups/
+*.kicad_prl
+*-bak
+fp-info-cache
+.~lock.*
+~*
+*.lck
+*.7z
